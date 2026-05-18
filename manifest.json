@@ -1,0 +1,9 @@
+{
+  "name": "CosmeticManager",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Cosmetic box spawn control (chance, rarity weights, extra spawns) and optional unlock-all.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
